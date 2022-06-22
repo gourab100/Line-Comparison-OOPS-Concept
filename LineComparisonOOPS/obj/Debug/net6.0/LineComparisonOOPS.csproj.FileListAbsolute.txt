@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.AssemblyInfo.cs
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\bin\Debug\net6.0\LineComparisonOOPS.exe
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\bin\Debug\net6.0\LineComparisonOOPS.deps.json
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\bin\Debug\net6.0\LineComparisonOOPS.runtimeconfig.json
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\bin\Debug\net6.0\LineComparisonOOPS.dll
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\bin\Debug\net6.0\LineComparisonOOPS.pdb
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.dll
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\refint\LineComparisonOOPS.dll
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.pdb
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\LineComparisonOOPS.genruntimeconfig.cache
+C:\Users\User\Desktop\bridgelabz solutions\LineComparisonOOPS\LineComparisonOOPS\obj\Debug\net6.0\ref\LineComparisonOOPS.dll
